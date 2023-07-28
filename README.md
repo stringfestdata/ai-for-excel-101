@@ -1,1 +1,1 @@
-# ai-for-excel-101
+AI for Excel 101 resources 
